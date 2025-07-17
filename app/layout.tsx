@@ -12,8 +12,7 @@ const spaceGrotesk = Space_Grotesk({
 
 export const metadata: Metadata = {
   title: "SecureGen - Password & Username Generator",
-  description: "Generate strong passwords and unique usernames instantly with beautiful theme-based backgrounds",
-    generator: 'v0.dev'
+  description: "Generate strong passwords and unique usernames instantly",
 }
 
 export default function RootLayout({

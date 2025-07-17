@@ -384,7 +384,7 @@ export default function SecureGen() {
         <Card className="glass-card shadow-2xl border-0 rounded-2xl overflow-hidden">
           <CardContent className="pt-6 p-6">
             <div className="flex flex-col sm:flex-row items-center justify-between gap-4">
-              <p className="text-sm text-foreground/70 font-medium">Created by [Your Name] · Part of my Portfolio</p>
+              <p className="text-sm text-foreground/70 font-medium">Created by Vivaswaan Sanghani · Part of my Portfolio</p>
               <Button
                 variant="outline"
                 className="gap-2 glass-input enhanced-focus rounded-xl border-0 glow-border hover:bg-white/20 dark:hover:bg-white/10 bg-transparent"
